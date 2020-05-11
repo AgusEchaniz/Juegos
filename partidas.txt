@@ -1,0 +1,27 @@
+{
+    "pepe ": [],
+    "juan": [
+        "Reversegam"
+    ],
+    "lili": [
+        "Ahorcado",
+        "Tic Tac Toe",
+        [
+            "Ahorcado"
+        ],
+        []
+    ],
+    "pipi": [],
+    "laura": [
+        "Ahorcado"
+    ],
+    "lola": [
+        "Ahorcado"
+    ],
+    "pipo": [
+        "Ahorcado"
+    ],
+    "lil": [
+        "Ahorcado"
+    ]
+}
